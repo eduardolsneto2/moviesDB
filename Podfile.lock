@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.9.0)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - SkeletonView (1.8.1)
+  - SwiftLint (0.24.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.0)
+  - AlamofireImage (~> 3.5)
+  - SkeletonView
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - SkeletonView
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  SkeletonView: 9e4db6c1478bce9da695109dd0972bff7b6efe65
+  SwiftLint: 2aa21b96c8d13396a051bc1cb659d2ce1e0075b0
+
+PODFILE CHECKSUM: 3ed9815415d138b1d77ca7406a4b3d7871ce5ac4
+
+COCOAPODS: 1.6.1
